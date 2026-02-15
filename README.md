@@ -263,7 +263,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For queries, suggestions, or collaboration opportunities:
 
-- **Email:** [your.email@example.com]
+- **Email:** [abhichaturvedi941@gmail.com]
 - **GitHub:** [@Avshrek](https://github.com/Avshrek)
 - **Project Issues:** [GitHub Issues](https://github.com/Avshrek/pbl_project/issues)
 
